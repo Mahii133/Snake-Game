@@ -1,3 +1,4 @@
 # Snake-Game
-I created a snake game using python.
-Author - Mahavir Rajpurohit
+#I created a snake game using python.
+<br>
+#Author - Mahavir Rajpurohit
